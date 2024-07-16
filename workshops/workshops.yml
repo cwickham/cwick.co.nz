@@ -1,0 +1,15 @@
+- title: Building Tidy Tools
+  author: Co-Instructor
+  path: https://github.com/rstudio-conf-2020/build-tidy-tools#building-tidy-tools
+  description: A two-day workshop at `rstudio::conf(2020)` for those who have embraced the tidyverse and now want to expand it to meet their own needs. 
+  date: 01-01-2020
+- title: Welcome to the tidyverse
+  author: Co-Instructor
+  path: https://github.com/cdhowe/atl-welcome-tidyverse
+  description: Two low cost, one-day workshops targeting underrepresented groups, Atlanta GA, providing a feel for the complete data analysis process in R - from importing and manipulating data, through to visualization. 
+  date: 01-10-2019
+- title: Happy R Users Purrr
+  path: https://www.rstudio.com/resources/rstudioconf-2017/happy-r-users-purrr-tutorial-/
+  author: "Designer/Instructor"
+  description: A tutorial on the R package purrr delivered at rstudio::conf 2017, Cascadia Conf 2017 and useR! 2017
+  date: 04-07-2017

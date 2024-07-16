@@ -1,0 +1,16 @@
+- title: "Quarto: Reproducible Publishing"
+  date: 2024-03-01
+  venue: Oakridge National Lab
+  path: https://github.com/cwickham/oakridge
+- title: What's New in Quarto?
+  date: 2023-09-01
+  venue: "`posit::conf(2023)`"
+  path: https://youtu.be/WR08GESib9Y?si=vTxco6_yuEDV8TBC
+- title: This Month I Learned...
+  date: 2021-04-01
+  venue: Rladies Washington D.C., via Zoom 
+  path: https://cwickham.github.io/this-month-I-learned/#1
+- title: The Human Side of Data Analysis
+  date: 2019-04-01
+  venue: "Southern Stat Chat: Effective Pedagogy in Data Science, St. Olaf College, MN"
+  path: https://github.com/cwickham/human-side#the-human-side-of-data-science
