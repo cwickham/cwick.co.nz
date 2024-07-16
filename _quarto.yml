@@ -3,9 +3,12 @@ project:
 
 website:
   title: "cwick.co.nz"
+  site-url: cwick.co.nz
   search: false
   open-graph: true 
-  page-footer: "Built with [Quarto](http://quarto.org)"
+  page-footer:
+    left: "[Source](http://github.com/cwickham/cwick.co.nz)"
+    right: "Built with {{< iconify mdi:heart >}} and {{< iconify simple-icons:quarto >}} [Quarto](http://quarto.org)"
   navbar:
     id: top-nav
     pinned: true
@@ -14,6 +17,13 @@ website:
       - talks/index.qmd
       - workshops/index.qmd
       - teaching/index.qmd
+    tools:
+    - icon: github
+      text: GitHub
+      href: https://github.com/cwickham
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/charlotte-wickham-793a011a/
 
 format:
   html:
