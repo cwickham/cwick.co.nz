@@ -5,6 +5,7 @@ $theme-grey: #777777;
 $theme-light-grey: #f7f7f7;
 $theme-dark-grey: #222222;
 $theme-yellow: #fed136;
+$theme-blue-grey: #a2afbb;
 
 // Sass Variables
 // https://quarto.org/docs/output-formats/html-themes.html#sass-variables
@@ -59,3 +60,8 @@ header .title {
 .card {
   border-color: lighten($theme-dark-grey, 10%);
 }
+
+.quarto-grid-item .card-attribution{
+  color: $theme-blue-grey;
+}
+

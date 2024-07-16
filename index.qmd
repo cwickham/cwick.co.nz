@@ -2,6 +2,7 @@
 title: "Charlotte Wickham"
 subtitle: "Data Scientist | Educator"
 image: profile.jpg
+image-alt: Photo of Charlotte Wickham
 about:
   id: hero-heading
   template: jolla
