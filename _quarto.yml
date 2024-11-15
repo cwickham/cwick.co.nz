@@ -27,4 +27,4 @@ website:
 
 format:
   html:
-    theme: [cosmo, styles.scss] 
+    theme: styles.scss
