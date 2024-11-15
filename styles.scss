@@ -1,43 +1,7 @@
-/*-- scss:defaults --*/
-
-$theme-white: #FFFFFF;
-$theme-grey: #777777;
-$theme-light-grey: #f7f7f7;
-$theme-dark-grey: #222222;
-$theme-yellow: #fed136;
-$theme-blue-grey: #a2afbb;
-
-// Sass Variables
-// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
-
-/* Colors */
-$body-bg: $theme-dark-grey;
-$body-color: $theme-white;
-$link-color: $theme-yellow;
-$code-bg: lighten($theme-dark-grey, 10%);
-$code-color: $theme-white;
-
-$primary: $theme-yellow;
-$secondary: $theme-grey;
-
-$navbar-bg: $theme-dark-grey;
-$navbar-fg: $theme-yellow;
-
-
-/* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&display=swap');
-$font-family-sans-serif: 'Roboto Slab', sans-serif;
-$font-size-root: 20px;
-
 /*-- scss:rules --*/
 
-header .title {
-  font-family: "Kaushan Script", serif;
-  color: $theme-yellow;
-}
-
 .about-image {
-  border: 8px solid $theme-white;
+  border: 8px solid $brand-white;
 }
 
 .navbar-brand {
@@ -45,23 +9,26 @@ header .title {
 }
 
 .navbar-nav a {
-  font-family: "Montserrat", sans-serif;
-  color: $theme-white;
+  color: $brand-white;
   text-transform: uppercase;
-  font-weight: 600;
 }
 
 .navbar-nav .nav-link.active {
-  color: $theme-dark-grey;
-  background-color:  $theme-yellow;
+  color: $brand-dark-grey;
+  background-color:  $brand-yellow;
   border-radius: 10px;
 }
 
 .card {
-  border-color: lighten($theme-dark-grey, 10%);
+  border-color: lighten($brand-dark-grey, 10%);
 }
 
-.quarto-grid-item .card-attribution{
-  color: $theme-blue-grey;
+.card h5{
+  font-size: 1.1em;
+  font-family: "Montserrat";
+}
+
+.card .card-attribution{
+  color: $brand-blue-grey;
 }
 
