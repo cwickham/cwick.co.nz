@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+$theme-blue: rgb(44, 90, 151);
+$theme-grey: #222;
+$theme-light-grey: #ddd;
+
+$body-bg:white;
+$body-color: $theme-grey;
+$link-color: $theme-blue;
+$headings-color: $theme-blue;
+$code-color: $theme-grey;
+$code-bg: $theme-light-grey;
+
+/*-- scss:rules --*/
+.card .card-attribution{
+  color: $theme-blue;
+}

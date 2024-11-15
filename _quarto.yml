@@ -27,4 +27,6 @@ website:
 
 format:
   html:
-    theme: styles.scss
+    theme: 
+      dark: styles.scss
+      light: [styles.scss, light.scss]
