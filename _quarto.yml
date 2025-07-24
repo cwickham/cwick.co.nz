@@ -5,7 +5,9 @@ website:
   title: "cwick.co.nz"
   site-url: cwick.co.nz
   search: false
-  open-graph: true 
+  favicon: favicon-32x32.png
+  open-graph: 
+    image: card.png
   page-footer:
     left: "[Source](http://github.com/cwickham/cwick.co.nz)"
     right: "Built with {{< iconify mdi:heart >}} and {{< iconify simple-icons:quarto >}} [Quarto](http://quarto.org)"
