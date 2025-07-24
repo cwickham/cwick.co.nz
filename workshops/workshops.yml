@@ -1,3 +1,8 @@
+- title: Intro to Positron for R/RStudio Users
+  author: Instructor
+  path: https://posit-dev.github.io/positron-workshop/caskdr.html
+  description: A half-day workshop at Cascadia R Conf on Positron particularly for R and RStudio users.
+  date: 2025-06-21
 - title: Quarto Websites
   author: Co-Instructor
   path: https://posit-conf-2024.github.io/quarto-websites/
