@@ -1,9 +1,4 @@
 /*-- scss:rules --*/
-
-.about-image {
-  border: 8px solid $brand-white;
-}
-
 .navbar-brand {
   font-family: "Kaushan Script", serif;
 }
@@ -19,16 +14,7 @@
   border-radius: 10px;
 }
 
-.card {
-  border-color: lighten($brand-dark-grey, 10%);
-}
-
 .card h5{
   font-size: 1.1em;
   font-family: "Montserrat";
 }
-
-.card .card-attribution{
-  color: $brand-blue-grey;
-}
-

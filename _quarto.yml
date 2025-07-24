@@ -27,6 +27,10 @@ website:
       text: LinkedIn
       href: https://www.linkedin.com/in/charlotte-wickham-793a011a/
 
+brand:
+  light: _brand-light.yml
+  dark: _brand.yml
+
 format:
   html:
     theme: styles.scss
