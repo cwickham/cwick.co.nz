@@ -1,3 +1,8 @@
+- title: Extending Quarto
+  author: Co-Instructor
+  path: https://posit-conf-2025.github.io/quarto-extend/
+  description: A one day workshop at `posit::conf(2025)` on customizing Quarto outputs with new formats, templates, and filters.
+  date: 2025-09-16
 - title: Intro to Positron for R/RStudio Users
   author: Instructor
   path: https://posit-dev.github.io/positron-workshop/caskdr.html

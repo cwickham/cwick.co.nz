@@ -34,3 +34,4 @@ brand:
 format:
   html:
     theme: styles.scss
+    respect-user-color-scheme: true
