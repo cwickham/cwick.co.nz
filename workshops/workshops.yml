@@ -1,3 +1,13 @@
+- title: Practical Quarto
+  author: Co-Instructor
+  path: https://posit-conf-2026.github.io/practical-quarto
+  description: A one day workshop at `posit::conf(2026)` for Quarto users who want to update and extend their Quarto mastery with practical patterns, templates, and tooling.
+  date: 2026-09-14
+- title: Zero to Website with Quarto
+  author: Instructor
+  path: https://cwickham.github.io/cascadia2026/
+  description: A half-day workshop at Cascadia R Conf on building a website from scratch with Quarto, from a basic template through customizing pages, navigation, listings, appearance, and publishing online.
+  date: 2026-06-26
 - title: Extending Quarto
   author: Co-Instructor
   path: https://posit-conf-2025.github.io/quarto-extend/
